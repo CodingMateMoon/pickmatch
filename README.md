@@ -17,7 +17,7 @@
  5. 알림 (팀 가입 신청, 수락, 거절, 매치 신청 및 성사, 거절 등)
  6. 팀 및 회원 관리 등 관리자 페이지
  
-* 개발 환경
+# 개발 환경
 - Java, Oracle, Apache Tomcat, SMTP, AJAX, Spring Tool Suite
 
 # 담당 역할
