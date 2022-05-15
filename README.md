@@ -1,5 +1,5 @@
 # pickmatch - 축구 팀 관리 및 경기 매칭 사이트
-- 상세 소개 문서: https://github.com/CodingMateMoon/pickmatch/blob/master/pickmatch%20%EC%86%8C%EA%B0%9C.docx
+- 상세 소개 문서: https://kpuackr-my.sharepoint.com/:w:/g/personal/janghyun10_tukorea_ac_kr/EXknB-O1O6hHvjDWOve07C4BwJHWv3dhunff58gH-DFn-A?e=Hd4aWT
 
 # 개요
 * 프로젝트명 : pickmatch (축구 팀 관리 및 경기 매칭 사이트)
