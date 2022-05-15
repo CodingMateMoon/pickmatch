@@ -1,5 +1,5 @@
 # pickmatch - 축구 팀 관리 및 경기 매칭 사이트
-- 상세 소개 문서(github pickmatch 소개 문서 다운 가능): https://kpuackr-my.sharepoint.com/:w:/g/personal/janghyun10_tukorea_ac_kr/EewMHkxGospDmOYq4u6E6MgB8Zoz11UfFo1fS-48b6L_VQ?e=1ZHNrJ
+- 상세 소개 문서(github pickmatch 소개 문서 다운 가능): https://kpuackr-my.sharepoint.com/:w:/g/personal/janghyun10_tukorea_ac_kr/EW5TJ9L2f-xFhDiSnWPNvFkBniobo_CgSXzUHp9HR9PhcQ?e=XhgTxV
 
 # 개요
 * 프로젝트명 : pickmatch (축구 팀 관리 및 경기 매칭 사이트)
