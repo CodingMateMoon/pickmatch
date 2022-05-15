@@ -1,4 +1,5 @@
 # pickmatch - 축구 팀 관리 및 경기 매칭 사이트
+- 상세 소개 문서(github pickmatch 소개 문서 다운 가능): https://kpuackr-my.sharepoint.com/:w:/g/personal/janghyun10_tukorea_ac_kr/EW5TJ9L2f-xFhDiSnWPNvFkBniobo_CgSXzUHp9HR9PhcQ?e=XhgTxV
 
 # 개요
 * 프로젝트명 : pickmatch (축구 팀 관리 및 경기 매칭 사이트)
@@ -29,3 +30,5 @@
 3. 공지사항
 - 페이징 처리, 다중 파일 업로드
  
+# 참여소감
+매치 등록, 신청, 성사, 가입 신청 등 여러 이벤트들이 발생했을 때 알림 기능을 적용하기 위해 Spring에서 제공하는 AOP를 활용하면서 그에 관해 깊게 공부할 수 있었습니다. 알림 기능을 구현하면서 어느 메소드들을 Joinpoint로 두고 Pointcut으로 지정하여 Advice를 적용할 지, 매치, 팀 이름, 아이디 등 Joinpoint의 인자값을 불러와서 활용하는 방법 등 aop 관련 여러 기능들을 익힐 수 있었습니다. 또한 매치 등록 기능을 구현하면서 카카오 REST API키를 발급받아 지도 API 활용 방법을 익힐 수 있었고 공지사항을 구현하면서 파일입출력 및 mybatis를 활용한 쿼리 등을 다양하게 다루는 시간을 가질 수 있었습니다. 팀원들과 주말에도 모여 프로젝트를 진행하며 함께 많은 것을 배울 수 있었고 유익한 시간이었습니다.
