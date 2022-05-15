@@ -18,7 +18,7 @@
 * 개발 환경
 - Java, Oracle, Apache Tomcat, SMTP, AJAX, Spring Tool Suite
 
-* 담당 역할
+# 담당 역할
 1. 알림
 - 매치 등록, 매치 성사, 매치 실패 등
 - 팀 가입 신청, 취소, 거절, 승인 등
