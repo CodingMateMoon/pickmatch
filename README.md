@@ -21,6 +21,9 @@
 # 개발 환경
 - Java, Oracle, Apache Tomcat, SMTP, AJAX, Spring Tool Suite
 
+# DB설계
+<img alt="erd" src="https://github.com/CodingMateMoon/pickmatch/blob/master/pickmatch/src/main/webapp/resources/images/readme/DB%EC%84%A4%EA%B3%84.png">
+
 # 담당 역할
 1. 알림
 - 매치 등록, 매치 성사, 매치 실패 등
